@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    /* offset-x,offset-y,blur,color */
+    text-shadow: 2px 2px 4px orange; 
+    /* color,offset-x,offset-y,blur */
+    text-shadow: green 2px 2px 4px; 
+}
